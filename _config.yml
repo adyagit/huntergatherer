@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Hunter Gatherer
 email: sri.adya@gmail.com
-description: Some comments and code snippets
-baseurl: "/huntergatherer/posts/" # the subpath of your site, e.g. /blog
+description: "Some comments and code snippets"
+baseurl: "/huntergatherer" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  adyagit

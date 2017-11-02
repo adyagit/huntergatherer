@@ -16,7 +16,7 @@
 title: Hunter Gatherer
 email: sri.adya@gmail.com
 description: "Some comments and code snippets"
-baseurl: "/huntergatherer" # the subpath of your site, e.g. /blog
+baseurl: "/huntergatherer/_posts/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  adyagit

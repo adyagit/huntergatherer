@@ -26,7 +26,7 @@ github_username:  adyagit
 
 # Build settings
 markdown: kramdown
-theme: true
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 

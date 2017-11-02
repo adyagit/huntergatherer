@@ -26,7 +26,11 @@ github_username:  adyagit
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 theme: minima
+=======
+theme: jekyll-theme-slate
+>>>>>>> 1eaf12448483a43ee257f780aa9d2ab42529a126
 plugins:
   - jekyll-feed
 
